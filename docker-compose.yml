@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  database:
+    image: mysql:latest
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: neuromind-db
+      MYSQL_USER:  neuromind
+      MYSQL_PASSWORD: neuromind
+      MYSQL_ROOT_PASSWORD: neuromind_root
+    ports:
+      - "3306:3306"
+    volumes:
+      - db-data:/var/lib/db
+    networks:
+      - spring-network
+
+
+volumes:
+  db-data:
+
+networks:
+  spring-network:
+    driver: bridge

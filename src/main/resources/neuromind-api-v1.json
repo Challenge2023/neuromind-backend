@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "neuromind-api",
+  "private_key_id": "3f7e9ce08d96431b772029cbad5cf4f5e49257f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDssjcCSYi3k2jO\nmsJr8FbkgVGzGGVGx08Pr7rYE8SXN4eBxVvY3Ssy40MQNds+tivEvmUPptZojS6r\nBI5IYvfzqhvOnhavUqCLNXMcOX28TejX/fJwdpXBAi6WL6dYgSyZMj7FNzXkHrKK\nPsstAOxEBhMQ6NXcoT2RyjvpUnAPuci0ldcYEUfw5K1gfODec2GTA0ay0s2wKXzf\n0R1km9dENfAs2HY9nVYqonoCnfCKT/jywmOrDIRCKf/Y5YII/lOIqLmfG8TSqGQF\npdoFW5GuDdTayB2mvsg/A2LSegiZGQusxHTwHtrFoDGbHQ0JPAK+LZ9Cff3KNdqK\nq1EHmSO/AgMBAAECggEAOSYYaQl3JJfHXOb53VTkrfxZTQwtW8cAnFF6I/S16Srj\noV4U/In+BaXgidfvDTev3qt3vC00pH6+D1Wkwu5+Xosqdpst7/vbvnDTz7ND3ATV\nnNz4PdYr9zN/Kwzrc0+RBJYgmL5pWSBeTEm4BbAs24m57cHB7SjTNFGnYIDihLEI\nWE0BnoEJDe8ZKDXwnqDLeVgNzZn2V4n82h6f6FO3yjT/FMOXlUueVpvAG/mBJytB\nIToGfwarHJABEa3Tjsr+SRBTyGgRSE0dmK/joj+uLa1tzIoGi1no7DtbAbFvNwH7\n808dPUEcY6N6UKvXh4ov/YCo3blME2GSYQwPq6EC5QKBgQD4kUwxDnCW5BUSm7zU\nVJazbyMoGsc9JNsBN7vVj8FwdAt8eXWC/s2lZSWprqDofLOH4c7bX7Lii/V8Cg5a\nY6BGOjVyDYUTQy766/3bx/uKS8vhbVCZE3rZrLYiNVKxTVn9luVf6Co/RU6/lZpl\nj3scdt84GQeBW16+4h6a+oJaTQKBgQDzxgulWZAhykpsBBAkquhup1El402ZFAqq\nJtmS0cb2F0P8KXIza0ha/2OMLkQ286VqdziSBlzK132O+/z33GXKx5fFx//PZUph\noxWfD0DYlPFqM80ym+nalrrsIQ7Ec/RlZ2r+JhUND90fegA6bTINHrZJfATX+dfh\nYbJvkQmkOwKBgQDHs4yAOTaxs+tOOPs7p/4viRG4zdLWx/5/+vQY/1cNbt4vkjGc\nHfTAdgQNUHSMdGuUtxGHZFqG8qU2k6m2ayZAZdG8oSoSML7U77bT1da85GqX4UiI\nw4LG0aC+2RJnylqLh6kfJZqTnK5I8/vIrr7dPo/WNR23it4TA/5MywjhXQKBgQDT\nUd9Om3FimWYidPM5lh6frdOesIjYJpOIJN1/dPKw6kI5GgSxplK276VwI7tml5fR\nzz/u9i0CegOSK8eDZj+npZZgEZwkQX5VXXakyChCl/sfQYCkWpxCrV+kypNuocY/\nEYOihYjCJfpeCvifrYEx9mm3Ehdw0ljePD7ekDB3eQKBgDww0I3VrfE3fagEihzb\n6TvoQ2ZvsJmRR4Ey79LhHODxxvFj/RhmeRat32a6FdxLTmCBVetpJCqdvxj3JMQz\nVDuZMm+mJxmvouWUmEBI8AR+P6Bi2EJb8oAxp0sx6Uj75FLn0j9e+4EPw2oYbYXz\n3d1LOEtoLQAsw7YVSgadr79V\n-----END PRIVATE KEY-----\n",
+  "client_email": "neuromind-account@neuromind-api.iam.gserviceaccount.com",
+  "client_id": "101123578254491012444",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neuromind-account%40neuromind-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
